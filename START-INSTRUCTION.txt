@@ -1,0 +1,22 @@
+1: Clone the Git Repository
+
+Backend Set UP Instruction:
+1. Navigate into the SERVER Folder by using following Command: cd Server
+2. Run npm install for installing the required Node Modules.
+3. Run the backend Server by Using Following Command: nodemon index.js
+
+
+DataBase Setup
+1.Open MySql WorkBench and create New DataBase keep the name = 'login'
+2.Create the table in login database with the Name = 'user'
+3.Create the two fields name and email in the table.
+
+
+Front End Set UP Instruction:
+1. Navigate to the React APP by using following Command: cd login-task
+2. Run Run "npm install" command for installing the required Node Modules and Packages.
+3. Run the react App by using following Command: npm start.
+
+Enter The Name
+Enter The Password
+
